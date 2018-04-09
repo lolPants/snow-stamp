@@ -1,11 +1,4 @@
-# Snow-Stamp
+# Discord Age Calculator
+_based on [snow-stamp](https://github.com/vegeta897/snow-stamp) <3_
 
-I couldn't find a page anywhere that let you just paste in a Discord snowflake to get the timestamp.
-
-So I made one.
-
-http://pixelatomy.com/snow-stamp/
-
----
-
-*Made with create-react-app*
+Calculates an age in days from a Discord snowflake.
